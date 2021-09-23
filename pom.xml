@@ -6,7 +6,7 @@
 
   <groupId>it.uom.cse</groupId>
   <artifactId>cse-workshop</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
 
   <name>cse-workshop</name>
 
@@ -31,7 +31,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/athapaththuamsrb/cse-workshop</url>
+      <url>https://maven.pkg.github.com/athapaththuamsrb/cse-workshop </url>
     </repository>
   </distributionManagement>
 
